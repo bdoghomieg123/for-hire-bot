@@ -1,5 +1,4 @@
 import praw # Praw... The Python Reddit API Wrapper. Connects to reddit.
-import time #Slows down the Input so that you have time to read what's happening
 import os #Complimentary to the common file/clear function. Just clears the terminal/Command prompt input
 import re #Search function. See: line 16
 from common import clear # the other file in this folder. Just a mini library I made to easily clear the input regardless of what Operating system you're using.
